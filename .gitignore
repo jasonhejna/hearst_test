@@ -35,3 +35,17 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# apple
+.DS_Store
+
+# webstorm
+.idea
+
+# bower components
+frontend/src/components/
+
+# node modules
+node_modules
+
+spec

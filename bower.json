@@ -1,0 +1,22 @@
+{
+  "name": "hearst_test",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Jason Hejna"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7"
+  }
+}

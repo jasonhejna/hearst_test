@@ -1,0 +1,19 @@
+{
+  "name": "hearst_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bower": "bower install",
+    "less": "lessc src/styles.less src/styles.css"
+  },
+  "author": "Jason Hejna",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "karma": "^1.1.1",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2"
+  }
+}
