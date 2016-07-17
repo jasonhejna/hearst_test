@@ -25,3 +25,7 @@
 <h1>Getting Started</h1>
 <p><b>npm install</b></p>
 <p><b>bower install</b></p>
+
+<h1>Running</h1>
+<p>Compile CSS with Less: <b>lessc src/styles.less src/styles.css</b></p>
+<p>I used nginx to serve our assets out of the src directory.</p>
