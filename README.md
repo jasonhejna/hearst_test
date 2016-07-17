@@ -28,4 +28,4 @@
 
 <h1>Running</h1>
 <p>Compile CSS with Less: <b>lessc src/styles.less src/styles.css</b></p>
-<p>I used nginx to serve our assets out of the src directory.</p>
+<p>Move the src directory to your server of choice. Or, set nginx to serve out of the src directory.</p>
